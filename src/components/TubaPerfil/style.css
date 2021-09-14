@@ -1,0 +1,17 @@
+.perfil-0{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 315px;
+    width: 160px;
+    transition: 0.5s;
+}
+
+.perfil-1, .perfil-2, .perfil-gamers, .perfil-3, .perfil-4, .perfil-5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 280px;
+    width: 280px;
+    transition: 0.5s;
+}

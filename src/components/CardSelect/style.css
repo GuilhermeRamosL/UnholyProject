@@ -1,0 +1,30 @@
+.cards-display{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.card{
+    height: 120px;
+    width: 120px;
+    background-color: floralwhite;
+    border: 3px solid floralwhite ;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.card:hover{
+    border-color: darkturquoise;
+    box-shadow: 3px 3px 10px 1px darkturquoise ;
+}
+
+.gen-name-display{
+    text-align: center;
+    color: rgb(205, 205, 205);
+}
+
+.gen-name-display:hover{
+    color: cornflowerblue;
+
+}
